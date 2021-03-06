@@ -1,0 +1,12 @@
+.gitignore
+node_modules/
+.vscode/
+npm-debug.log*
+Thumbs.db
+.DS_Store
+.idea
+*.ai
+*.log
+*.pdf
+*.psd
+*.sublime*
